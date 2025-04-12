@@ -1,0 +1,20 @@
+{
+  "short_name": "AgeWell",
+  "name": "AgeWell - Health Vitals Tracker",
+  "icons": [
+    {
+      "src": "icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#E3F2FD",
+  "display": "standalone",
+  "theme_color": "#82B1FF"
+}
